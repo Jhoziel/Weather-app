@@ -99,10 +99,9 @@ body{
     display: none;
 }
 
-.error{
-    text-align: left;
-    margin-left: 10px;
+.error {
+    display: none;
     font-size: 14px;
     margin-top: 10px;
-    display: none;
+    text-align: center;
 }
